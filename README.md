@@ -21,4 +21,5 @@ import pandas as pd
 
 data = pd.read_csv('raw_data.txt')
 ```
-
+## Support
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J4EYIF5)
